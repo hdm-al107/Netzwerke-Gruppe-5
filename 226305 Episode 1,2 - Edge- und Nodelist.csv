@@ -1,7 +1,0 @@
-from,to,weight,relationship,time
-Adam,Eva,3,marriage,2000
-Adam,Abraham,3,bond,2001
-Abraham,Ismael,2,father-son,2005
-Abraham,Jakob,3,father-son,2013
-Abraham,Isaak,3,father-son,2014
-Abraham,Sara,3,marriage,2006
