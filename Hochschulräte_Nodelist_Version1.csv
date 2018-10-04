@@ -1,0 +1,573 @@
+id,label,sex,birth,type
+JSR,Dr. Jan Stefan Roell,2,1954,0
+MB,Dr. Martina Burgetsmeier,1,1967,0
+CB,Dr. Christine Brach,1,na,0
+TMH,Dr. Tobias Mehlich,2,na,0
+HM,Dipl.-Ing. Harald Molle,2,na,0
+CK,Christoph Kübel,2,1959,0
+KW,Kerstin Wagner,1,na,0
+WB,Prof. Dr.-Ing. Wilhelm Bauer,2,na,0
+COE,Christian O. Erbe,2,1961,0
+AG,Alfred Goll,2,1956,0
+MK,Martina Koederitz,1,1964,0
+ML,Mark Langer,2,1968,0
+JR,Dr. Jürgen Rautert ,2,na,0
+SMH,Dr. Stephanie Mair-Huydts,1,1963,0
+IF,Ingrid Felgenträger,1,1952,0
+AB,Andreas Bieswanger,2,na,0
+GF,Dr. Gerhard Flöck,2,na,0
+SSl,Stephan Scholl,2,1957,0
+JW,Jeanette Weisschuh,1,1963,0
+UB,Ursula Bilger,1,1956,0
+PLL,Paula Lutum-Lenger,1,1957,0
+KM,Klaus Moser,2,na,0
+BR,Bernd Richter,2,na,0
+HW,Henning Wagner,2,na,0
+CR,Christiane Riedel,1,1962,0
+JB,Joachim Bernauer ,1,na,0
+TMD,Thomas Mayfried ,2,na,0
+FR,Florian Rötzer,2,1953,0
+NB,Nicole Brenez ,1,1961,0
+KS,Klaus Schrenk,2,1949,0
+MAZSS,Marie-Amelie zu Salm-Salm,1,na,0
+TDT,Thomas D. Trummer,2,1967,0
+MA,Martin Auch,2,na,0
+GW,Gudrun Wurlitzer,1,na,0
+HG,Hansgerd Gengenbach,2,1954,0
+CH,Christel Hausding,1,1949,0
+DK,Dietmar Kamlah,2,na,0
+JL,Johannes Luithle,2,1968,0
+GM,Gerhard Maier,2,1937,0
+IR,Ingo Rust,2,1978,0
+JRR,Jórunn Ragnarsdóttir,1,1957,0
+UG,Ulrike Groos,1,1963,0
+EP,Ester Petri,1,na,0
+UL,Ulrike Lorenz,1,1963,0
+HDG,Herta Däubler-Gmelin,1,1943,0
+IHM,Ingrid Hamm,1,1955,0
+MH,Martin Hettich,2,1962,0
+PL,Peter Leibinger,2,1967,0
+FWK,Friedrich Walter Keller,2,1957,0
+KRV,Karl-Reinhard Volz,2,1947,0
+JM,Johannes Michel,2,1962,0
+KU,Kerstin Unseld,1,na,0
+HK,Hansjörg Korward,2,1965,0
+MP,Manfred Popp,2,1941,0
+SF,Stephan Frucht,2,1972,0
+EM,Evelyn Meining,1,1966,0
+BW,Beatrice Werner,1,na,0
+EML,Ernst-Moritz Lipp,2,1951,0
+CB,Clemens Benz,2,na,0
+BE,Bernhard Eitel,2,1959,0
+CE,Carmen Emigholz,1,1962,0
+MTM,Maria Therese Müller,1,na,0
+MW,Martin J. Worms,2,1954,0
+MO,Manfred Oeming,2,1955,0
+MD,Mark Dainow,2,1948,0
+SKN,Salomon Korn,2,1943,0
+EE,Eva Eckkrammer,1,1968,0
+UF,Ulrike Freundlieb,1,1953,0
+TP,Thomas Peuntner,2,na,0
+MSR,Martin Schumacher,2,1960,0
+SKH,Stefan Keh,1,na,0
+AL,Andrea Leu,2,na,0
+MDR,Marion Diener,2,na,0
+BEBN,Barbara Ettinger-Brinckmann,2,1950,0
+TRE,Thomas Regele,2,na,0
+RS,Renate Schubert,1,na,0
+AK,Andreas Kreimeyer,2,1955,0
+CE,Claudia Eckert,1,1959,0
+PG,Petra Gerstenkorn,1,1954,0
+SKT,Susanne Kunschert,1,1970,0
+WDL,Wolf-Dieter Lukas,2,1957,0
+SQ,Stefan Quandt,2,1966,0
+VS,Viktor Scherer,2,na,0
+SSZ,Simone Schwanitz,1,1968,0
+MUH,Marliese Uhrig-Homburg,1,na,0
+DZ,Dieter Zetsche,2,1953,0
+HB,Hanna Binder,1,na,0
+EDG,Elke Döring,1,na,0
+WH,Wolfgang Hansch,2,na,0
+SHT,Sabine Haupt,1,na,0
+AR,Anke Rigbers,1,na,0
+PT,Peter Tropschuh,2,1958,0
+EF,Erika Faust,1,na,0
+ALM,Alexandra Laufer-Müller,1,1971,0
+MRM,Michelle Rowbotham,1,na,0
+DSK,Dirk Schallock,2,na,0
+JSZ,Joachim Schulz,2,na,0
+MZ,Michele Zimmermann,1,na,0
+EMA,Eva-Maria Armbruster,1,1959,0
+DBK,Dietrich Birk,2,1967,0
+SLZ,Sabine Lutz,1,na,0
+CRH,Christian Rauch,2,na,0
+TS,Thomas Speidel,2,na,0
+DAS,Dorothee Ambrosius,1,na,0
+MBR,Monika Beltinger,1,na,0
+WGDN,Wolfgang Dorn,2,na,0
+GL,Gerd Leipold,2,1951,0
+SM,Steffen Mayer,2,na,0
+WM,Wolfram Münch,2,na,0
+UJV,Udo J. Vetter,2,na,0
+TL,Thomas Lindner,2,na,0
+UMR,Ursula Maier,1,na,0
+HMR,Hermann Mettler,2,na,0
+SESR,Sophie Schwörer,1,na,0
+MKE,Michael Kaschke,2,1957,0
+FE,Franziska Eichel,1,na,0
+GG,Gerhard Grimminger,2,1941,0
+JK,Jochen Kress,2,1975,0
+SKN,Stefan Kampmann,2,1963,0
+MWR,Michael Weber,2,1959,0
+HS,Heidi Stock,1,na,0
+RMW ,Rosemarie Miller-Weber,1,n.a,0
+WDN,Walter Dörin,2,1954,0
+HGR,Hans Gruber ,2,1960,0
+HR,Hermann Reichold ,2,1955,0
+KMM,Katharina Maag Merki ,1,1964,0
+ABH,Anja Bauer-Harz,1,1963,0
+CM,Christian Medweth,2,1966,0
+SSL,Silke Stoll,1,1971,0
+KH,Karsta Holch ,1,1949,0
+JLG,Jutta Lang,1,1963,0
+RL,Reinhard Loose,2,1965,0
+AT,Andreas Trumpp,2,1964,0
+GWN,Gert Weisskirchen,2,1944,0
+EB,Elke Luise Barnstedt,1,1956,0
+AR,Anke Rigbers,1,1964,0
+RR,Renate Rastätter,1,1947,0
+DF,Dirk Fox,2,n.a,0
+EWH,Erich W. Hacker,2,1952,0
+HH,Holger Hebart,2,1964,0
+CT,Carl Trinkl,2,1954,0
+AZ,Andreas Zielonka,2,1957,0
+UH,Ulrich Hebenstreit,2,1947,0
+TB,Thorsten Bohl,2,1967,0
+MM,Michael Mühlbayer ,2,1955,0
+SS ,Stefanie Schneider,1,1961,0
+US,Ulrike Schiller,1,n.a,0
+MT,Mehmet Toker,2,1971,0
+AP,Anja Peck ,1,1973,0
+RP,Roland Pröger ,2,na,0
+GP,Grit Puchan ,2,1960,0
+KMR,Klaus Michael Rückert,2,1967,0
+BB,Bettina Bernadotte,1,1974,0
+IB,Iris Bienert,1,na,0
+MBH,Margaretha Barth,1,,0
+WG,Wolfgang Grenke,2,1951,0
+CRR,Carola Richter,1,na,0
+TR,Tanja Rückert,1,na,0
+FP,Frithjof Punke,2,na,0
+UK,Ulrich Kleine,2,1959,0
+KE,Klaus Erdich ,2,na,0
+NO,Nicola Osypka,1,na,0
+MR,Marc Renner ,2,1957,0
+BSR,Bärbel Schäfer ,1,1958,0
+BSP,Brigitta Schrempp,1,1965,0
+HT,Hariolf Teufel,2,na,0
+MRR,Marc Rüger ,2,na,0
+SH,Sabine Hagmann ,1,1964,0
+WP,Waltraud Pustal ,1,na,0
+SSR,Sven Schneider,2,na,0
+JS,Jutta Suchanek,1,na,0
+GB,Guido Bader,2,1972,0
+MDZ,Maria Dietz,1,na,0
+JLR,Jürgen Laukemper,2,1958,0
+WS,Walter Schoefer,2,na,0
+MS,Manuel Schupp,2,1959,0
+,,,,
+DB,Deutsche Bahn ,0,na,1
+SBB,S-Bahn Berlin,0,na,1
+GFIF,Gesellschaft für immobilienwirtschaftliche Forschung e.V.,0,na,1
+WIUB,Wirtschaftsverbands industrieller Unternehmen Baden e.V.,0,na,1
+GFA,Gesellschaft für Arbeitswissenschaft ,0,na,1
+DGFNB,Deutsche Gesellschaft für Nachhaltiges Bauen e. V.,0,na,1
+DNB,Deutsches Netzwerk Büro e. V.,0,na,1
+EBW,e-mobil BW GmbH,0,na,1
+EC,European Commission,0,na,1
+BS,Bertelsmann Stiftung,0,na,1
+IFFPR,International Foundation for Production Research,0,na,1
+IGM,IG Metall ,0,na,1
+AIBW,Allianz Industrie 4.0 des Landes Baden-Württemberg ,0,na,1
+RMB,Redaktionsbeirat »Mensch & Büro«,0,na,1
+RIDW,Rationalisierungs- und Innovationszentrum der Deutschen Wirtschaft e. V. ,0,na,1
+VDI,Verein Deutscher Ingenieure e. V.,0,na,1
+WGAB,Wissenschaftliche Gesellschaft für Arbeits- und Betriebsorganisation,0,na,1
+FETZEE,Fachverband Elektromedizinische Technik des Zentralverbandes der Elektrotechnik- und Elektronikindustrie e.V.,0,na,1
+AS,Arbeitgeberverband Südwestmetall,0,na,1
+MES,Verband der Metall- und Elektroindustrie des Saarlandes e.V.,0,na,1
+IH ,Industrie- und Handelskammer,0,na,1
+DHBW,Duale Hochschule Baden-Württemberg ,0,na,1
+REW,REW,0,na,1
+BWI,Bird Watch Ireland GmbH,0,na,1
+W,Witzenmann GmbH,0,na,1
+FJ,Freundeskreis Jevpatorija e.V.,0,na,1
+SL,Sozialberatung Ludwigsburg e.V. ,0,na,1
+BL,Bürgerstiftung Ludwigsburg,0,na,1
+RYL,Rock your Life,0,na,1
+MUFBW,Medien- und Film GmBH Baden-Würtemberg,0,na,1
+IS,Integriertes Semesterpraktikum,0,na,1
+VZUDS,SELF e.V. - Verein zur Unterstützung der Selbständigen,0,na,1
+SPM,siggset Print & Media AG,0,na,1
+FKS,Förderverein Kinderfreundliches Stuttgart e.V.,0,na,1
+GFKN,Gesellschaft für Konsumforschung Nürnberg e. V.,0,na,1
+UKU,Universitätsklinikums Ulm,0,na,1
+ISUNU,Internationale Schule Ulm/Neu-Ulm,0,na,1
+AS,Arbeitgeberverbande Südwestmetall,0,na,1
+UU,Universität Ulm,0,na,1
+EO,Entrepreneurs' Organization,0,na,1
+VDEEI,Verband der Elektrotechnik Elektronik Informationstechnik e. V.,0,na,1
+MDBG,Museum der Bayerischen Geschichte ,0,na,1
+MVCUJ,Museum von Christen und Juden,0,na,1
+THHS,Theodor Heuss Haus Stuttgart,0,na,1
+EL,EVN-Lichttechnik GmbH,0,na,1
+LM,Liebenzeller Mission,0,na,1
+PS,Pforzheimer Stadtmission,0,na,1
+SG,Süddeutscher Gemeinschaftsverband,0,na,1
+ETFL,Evangelisch Theologische Fakultät Leuven,0,na,1
+KDL,Kulturstiftung der Länder,,,
+HKG,Hessische Kulturstiftung,,,
+SSK,"Stiftung Saarländischer Kulturbesitz
+",,,
+VM,Villa Massimo,,,
+KSS,Kuratorium Schloss Solitude,,,
+IJOSA,International Journal of Selection and Assessment,,,
+ESF,European Science Foundation,,,
+DF,Deutsche Forschungsgemeinschaft,,,
+KIU,Karlshochschule International University,,,
+HSP,Hochschule Pforzheim,,,
+FDSM,Fachbeirat der Stadt München,0,na,1
+KFSIM,Kommission für Stadtgestaltung in München,0,na,1
+GDSFIB,Gestaltungsbeirat der Stadt Freiburg im Breisgau,0,na,1
+GR,Gestaltungsbeirat Reutlingen ,0,na,1
+GeRe,Gestaltungsbeirat Reutlingen,0,na,1
+RG,Remstal Gartenschau 2019,0,na,1
+BaBe,Baukollegium Berlin,0,na,1
+BCD,Berlin Creative District,0,na,1
+BDSZ,Baukollegium der Stadt Zürich,0,na,1
+KuSt,Kunstmuseum Stuttgart,0,na,1
+ADB,Ankaufskommission des Bundes ,0,na,1
+CGS,Camille Graeser Stiftung ,0,na,1
+WSS,Walter Stöhrer Stiftung,0,na,1
+StSt,Stankowski-Stiftung ,0,na,1
+KBW,Kunststiftung Baden-Württemberg,0,na,1
+KL,Kunstmuseum Liechtenstein,0,na,1
+MUFBW,Medien- und Film GmbH Baden-Württemberg,0,na,1
+ZKM,ZKM,0,na,1
+KuMa,Kunsthalle Mannheim,0,na,1
+KOG,Kunstforum Ostdeutsche Galerie,0,na,1
+DeMu,Deutscher Museumsbund,0,na,1
+ADKB,Akademie der Künste Berlin,0,na,1
+RWTHA,Rheinisch-Westfälische Technische Hochschule Aachen,0,na,1
+SPD,Sozialdemokratische Partei Deutschlands,0,na,1
+VO,Virtueller Ortsverein,0,na,1
+IAOLANA,International Association of Lawyers against Nuclear Arms,0,na,1
+DHUP,Deutschen Hospitz- und Palliativverbands,0,na,1
+ELSAD,ELSA-Deutschland e.V.,0,na,1
+BERUR,Bundesverband ehrenamtlicher Richterinnen und Richter e.V.,0,na,1
+RBS,Robert Bosch Stiftung,0,na,1
+GPI,Global Perpective Initiative,0,na,1
+KuSt,Karl Schlecht Stiftung,0,na,1
+UT,Universität Tübingen,0,na,1
+UNICEF,UNICEF,0,na,1
+BüSt,Bürgerstiftung Stuttgart,0,na,1
+DeRe, Deutsche Rettungsflugwacht e. V. ,0,na,1
+EFC,European Foundation Center,0,na,1
+SPARDAB,Sparda-Bank ,0,na,1
+T,Trumpf,0,na,1
+BFBUF,Bundesministerium für Bildung und Forschung,0,na,1
+DPE,Deutsche Private Equity,0,na,1
+DFL,Deutsche Fußball Liga GmbH,0,na,1
+SCF,SC Freiburg,0,na,1
+WGF,Wissenschaftliche Gesellschaft Freiburg,0,na,1
+UniFre,Universität Freiburg ,0,na,1
+KEG,Karg-Elert-Gesellschaft,0,na,1
+SWR,Süd-West-Rundfunk,0,na,1
+VDM,Verband deutscher Musikschulen,0,na,1
+FoKa,Forschungszentrum Karlsruhe,0,na,1
+TUD,Technische Universität Darmstadt,0,na,1
+KHBS,Karl Heinz Beckurts-Stiftung,0,na,1
+ZFKUM,Zentrum für Kunst und Medientechnologie ,0,na,1
+FKUK,Fördergemeinschaft Kunst Karlsruhe,0,na,1
+KIFT,Karlsruher Institut für Technologie ,0,na,1
+GZVVL,Gesellschaft zur Verwertung von Leistungsschutzrechten,0,na,1
+BrSo,Brandenburgische Sommerkonzerte ,0,na,1
+DSFCC,Deutsche Standards für Corporate Collections ,0,na,1
+SPK,Stiftung Preußischer Kulturbesitz,0,na,1
+WD,Weltkulturforum Dresden ,0,na,1
+VBIKKB,VBIK-Kulturausschuss Berlin,0,na,1
+DM,Dialogforum Musikwirtschaft,0,na,1
+VUT,Verband unabhängiger Tonträgerhersteller,0,na,1
+GEMA,GEMA,0,na,1
+KDDW,Kulturkreis der Deutschen Wirtschaft e.V.,0,na,1
+RCBN,Rotary Club Berlin Nord,0,na,1
+SK,Singende Kindergärten,0,na,1
+DrBa,Dresdner Bank AG,0,na,1
+MFWFUKBW,"Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg",0,na,1
+,Landesinstitut für Schulentwicklung ,0,na,1
+LFS,Universitätsmedizin Mannheim,0,na,1
+UM,Universität Heidelberg,0,na,1
+UnHe,Landesrektorenkonferenz Baden-Württemberg,0,na,1
+LBW,katholischen Studentenverbindung K.D.St.V. Normannia zu Karlsruhe,0,na,1
+KSKDSVNZK,International Association of Geomorphologists,0,na,1
+IAOG,Deutsche Akademie der Technikwissenschaften,0,na,1
+DADT,Metropolregion Rhein-Neckar,0,na,1
+MRN,Deutschen Archäologischen Instituts,0,na,1
+DAI,Deutsche Akademie der Naturforscher Leopoldina ,0,na,1
+DADNL,Kultur der Freien Hansestadt Bremen,0,na,1
+KDFHB,Greenpeace,0,na,1
+Gr,Tierschutzverein Bremen,0,na,1
+TiBr,Arbeitswohlfahrt,0,na,1
+Ar,Arbeiter-Samariter-Bund,0,na,1
+ASB,Deutsche Schillergesellschaft,0,na,1
+DSFCC,Kunstverein Bremen,0,na,1
+KuBr,Bremer Philharmoniker,0,na,1
+BP,Jugend Kunst Stiftung Bremen ,0,na,1
+JKSB,Theater Bremen ,0,na,1
+ThBr,Focke-Museum ,0,na,1
+FM,Übersee-Museum,0,na,1
+ÜM,Musikfeste Bremen,0,na,1
+MuBr,Glocke Veranstaltungs GmbH,0,na,1
+GV,Bundesministeriums des Innern,0,na,1
+BDI,Zentralarchiv Juden,0,na,1
+ZJ,Finanzministerkonferenz Hessen,0,na,1
+FH,Universität Heidelberg,0,na,1
+UnHe,Studienstiftung des deutschen Volkes ,0,na,1
+SDV,Heidelberger Inspiration am Abend ,0,na,1
+HIAA,Landesverband der Jüdischen Gemeinden in Hessen,0,na,1
+LDJGIH,Zentralrat der Juden in Deutschland,0,na,1
+ZDJID,Jüdische Gemeinde Offenbach,0,na,1
+JGO,Ludwig-Börne-Stiftung,0,na,1
+LBS,Europäische Stiftung Kaiserdom zu Speyer,0,na,1
+ESKZS,Johann Wolfgang Goethe-Universität,0,na,1
+JWGU,Ignatz-Bubis-Preis für Verständigung,0,na,1
+IBPFV,Stiftung Denkmal für die ermordeten Juden Europas,0,na,1
+SDFDEJE,Deutsche Nationalstiftung,0,na,1
+DNB,Fördervereins für Jiddische Sprache und Kultur e. V,0,na,1
+FFJSUK,Aktion Sühnezeichen Friedensdienste,0,na,1
+ASF,Stiftung 20. Juli 1944,0,na,1
+SJ,Oper in der Hersfelder Stiftsruine,0,na,1
+OIDHS,Freundeskreis des Deutschen Filminstituts e. V,0,na,1
+FDDF,Walther Rathenau Gesellschaft e. V.,0,na,1
+WRG,Zweite Deutsche Fernsehen,0,na,1
+ZDF,American Jewish Committee,0,na,1
+AJC,Sigmund-Freud-Institut,0,na,1
+SFI,Leo Baeck Instituts,0,na,1
+LBI,Sächsischen Akademie der Wissenschaften zu Leipzig,0,na,1
+SADWZL,Jüdisches Museum Berlin,0,na,1
+JMB,Leutkircher Bank,0,na,1
+LB,FDP,0,na,1
+FDP,ADMW GmbH,0,na,1
+ADMW,Europäisches Wirtschaftsforum,0,na,1
+EW,Bundesverbands Deutscher Mittelstand,0,na,1
+BDW,Universität Regensburg,0,na,1
+UR,Universität Zürich,0,na,1
+UZ,Schweizerischer Nationalfonds SNF,0,na,1
+SNF,Elektro-Schillinger GmbH,0,na,1
+ESG,IHK Industrie- und Handelskammer ,0,na,1
+IHK,OZ-Verlags-GmbH,0,na,1
+OZV,Media Group Medweth GmbH,0,na,1
+MGM,Stiftung der Deutschen Wirtschaft,0,na,1
+SDW,Verband deutscher Unternehmerinnen,0,na,1
+VDU,Heidelberger Unternehmerinnen e.V.,0,na,1
+HUN,Rotary-Club Heidelberg Neckar,0,na,1
+RCH,Freundeskreis des Heidelberger Frühlings,0,na,1
+FHF,Freundeskreis des Theaters & Philharmonischen Orchesters,0,na,1
+FTP,Freundeskreis des Kurpfälzischen Museums,0,na,1
+FKM,Tiergartenfreunde Heidelberg e.V.,0,na,1
+THG,Führungsakademie des Landes Baden-Württemberg,0,na,1
+FLBW,MLP Finanzberatung SE,0,na,1
+MLP,German Stem Cell Network (GSCN),0,na,1
+GSCN,Hi-stem - Heidelberg gGmbH,0,na,1
+HHG,Deutsches Krebsforschungszentrum,0,na,1
+DKZ,Nationales Centrum für Tumorerkrankungen,0,na,1
+NCT,Fachhochschule Potsdam,0,na,1
+FHPM,Arbeiterwohlfahrt,0,na,1
+AW,Helsinki Citizens’ Assembly (HCA),0,na,1
+HCA,Deutsch - Tschechische und Slowakische Gesellschaft e.V.,0,na,1
+DTSG,Forum Demokratischer Sozialismus,0,na,1
+FDS,Hochschule der Bundesagentur für Arbeit,0,na,1
+HBA,Deutsch- Tschechisches Gesprächsforum,0,na,1
+DTG,Open University of Israel e.V.,0,na,1
+OUI,Weißer Pfau e.V.,0,na,1
+WPU,Evaluationsagentur Baden-Württemberg,0,na,1
+EBW,Bündnis 90/Die Grünen,0,na,1
+BDG,Gewerkschaft Erziehung und Wissenschaft (GEW),0,na,1
+GEW,Bund für Umwelt und Naturschutz Deutschland,0,na,1
+BUND,Karlsruher Gemeinderat,0,na,1
+KGT,KMK (Karlsruher Messe- und Kongress GmbH),0,na,1
+KMK,Stadtmarketing GmbH,0,na,1
+SGG,Städtisches Klinikum,0,na,1
+SKM,Karlsruher Fächerbad GmbH,0,na,1
+KFG,Karlsruher Bädergesellschaft,0,na,1
+KB,Stiftungsrat Heimstiftung Karlsruhe,0,na,1
+SHK,Badisches KONServatorium,0,na,1
+BKM,Volkshochschule Karlsruhe,0,na,1
+VK,Regionalverband Mittlerer Oberrhein,0,na,1
+RMO,Verein für Jugendhilfe Karlsruhe e.V,0,na,1
+VJK,Secorvo Security Consulting GmbH,0,na,1
+SSC,Datenschutz und Datensicherheit,0,na,1
+DUD,CyberForum e.V.,0,na,1
+CF,Stiftung Internationale Musikschulakademie Kulturzentrum Schloss Kapfenburg,0,na,1
+SIMK,Stauferklinikum - Zentrum für Innere Medizin,0,na,1
+SZI,Forschungsinstitut für Edelmetalle und Metallchemie,0,na,1
+FEM,Deutsche Gesellschaft für Galvano- und Oberflächentechnik,0,na,1
+DGG,Arbeitsgemeinschaft industrieller Forschungsvereinigungen,0,na,1
+AIF,Zentrum für Oberflächentechnik Schwäbisch Gmünd e.V.,0,na,1
+ZOS,Edelmetallverband e.V.,0,na,1
+EM,European Academy of Surface Technology,0,na,1
+EAST,Eugen G. Leuze Verlag,0,na,1
+EGL,Staatsgerichtshof Baden-Württemberg,0,na,1
+SBW,Sozialberatung Ludwigsburg e.V,0,na,1
+SBL,Freundeskreis Jevpatorija e.V,0,na,1
+FJ,Bürgerstiftung Ludwigsburg,0,na,1
+BL,Rock Your Life,0,na,1
+RYL,Sumida Corporation,0,na,1
+SC,Französische Filmtage Tübingen-Stuttgart,0,na,1
+FFT,Toker telecom,0,na,1
+TT,SELF e.V.,0,na,1
+SELF,Deutsche Aktuarvereinigung,0,na,1
+DA,Deutsche Gesellschaft für Versicherungs- und Finanzmathematik ,0,na,1
+DGVF,FinTechRat,0,na,1
+FTR,Bitkom Fachausschuss,0,na,1
+BF,HVB Frauenbeirat,0,na,1
+HVBF,European Network Architecture,0,na,1
+ENA,Geschichtsverein Pfullingen ,0,na,1
+GPN,TriRhenaTech,0,na,1
+TRT,Deutscher Städtetag,0,na,1
+DS,Städtetag Baden-Württemberg,0,na,1
+STBW,Friesenheimer Schul-Förderverein,0,na,1
+FSF,Bürger-Energiegenossenschaft E-Werk Mittelbaden,0,na,1
+BEM,Karlsruher Präsidentinnen,0,na,1
+KP,Freundeskreis Festspielhaus Baden-Baden,0,na,1
+FFBB,Grenke-Stiftung,0,na,1
+GS,Schachzentrum Baden-Baden,0,na,1
+SZBB,Münchner Kreis,0,na,1
+MKS,Industrial Consortium Committee,0,na,1
+ICC,Verwaltungsrat der Oberschwäbischen Elektrizitätswerke,0,na,1
+VOE,Europa Miniköche,0,na,1
+EMK,Universität Hohenheim,0,na,2
+UHH,Gärtnern für Alle,0,na,1
+GA,Europäisches KulturForum Mainau,0,na,1
+EKFM,Tagung der Nobelpreisträger in Lindau,0,na,1
+TNL,Plan International Deutschland,0,na,1
+PID,Aufsichtsrat der Krankenhäuser Landkreis Freudenstadt,0,na,1
+AKLF,Kreissparkasse Freudenstadt,0,na,1
+KSF,Nationalpark-Rat des Nationalparks Schwarzwald,0,na,1
+NSNS,Tourismusverband Baden-Württemberg,0,na,1
+TBW,Schwarzwald Tourismus ,0,na,1
+SWT,Deutsch-Französischen Hochschule,0,na,1
+DFHS,Institut français Mannheim,0,na,1
+IFM,Stadt Mannheim,0,na,1
+SMM,Deutsche Forschungsgemeinschaft,0,na,1
+DFG,Editorial Board,0,na,1
+EB,Revista Internacional de Lingüística Iberorrománica,0,na,1
+RIDLI,Deutscher Akademischer Austauschdienst,0,na,1
+DAA,Studienstiftung des Deutschen Volkes,0,na,1
+SDDV,Friedrich-Ebert-Stiftung,0,na,1
+FES,Lions Clubs International,0,na,1
+LCI,Arbeitsgericht Mannheim,0,na,1
+AMM,Verband der Pfälzischen Metall- und Elektroindustrie e. V.,0,na,1
+VDPMUE,Bauen digital Schweiz,0,na,1
+BDS,Enterprise Stiftung,0,na,1
+ESG,Kantonsschule Romanshorn,0,na,1
+KRN,Thurgauische Stiftung für Wissenschaft und Forschung,0,na,1
+TSFWF,Architektenkammer Hessen,0,na,1
+AH,Bund Deutscher Architekten,0,na,1
+BDA,Kasseler Architekturzentrum im Kulturbahnhof,0,na,1
+KAKIK,Bundesarchitektenkammer e.V.,0,na,1
+B,"planen-bauen 4.0 – Gesellschaft zur Digitalisierung des Planens, Bauens und Betreibens mbH",0,na,1
+PBGZDDPBUB,Deutsches Institut für Normung,0,na,1
+DIFN,Bundesverband freier Berufe,0,na,1
+BFB,Bundesstiftung Baukultur,0,na,1
+BuBa,Deutsche Stiftung Denkmalschutz,0,na,1
+DSD,Institut für Stadtbaukunst,0,na,1
+IFS,ETH Women Professors Forum,0,na,1
+ETHWPF,Future Resilience System,0,na,1
+FRS,Center for Research on Environmental Decisions,0,na,1
+CFROED,Öbu - Verband für nachhaltiges Wirtschaften,0,na,1
+OEBUVNW,Schweizerische Nationalbank ,0,na,1
+SN,K+S Aktiengesellschaft,0,na,1
+KSA,C.H. Boehringer Sohn AG & Co. KG,0,na,1
+CHBS,Fraunhofer-Institut für Angewandte und Integrierte Sicherheit,0,na,1
+FIFAUIS,Center for Advanced Security Research Darmstadt,0,na,1
+CFASRD,Verein zur Förderung eines Deutschen Forschungsnetzes e. V.,0,na,1
+VFDF,OFFIS – Institut für Informatik,0,na,1
+OFFISII,"Bundesverband Informationswirtschaft, Telekommunikation und neue Medien",0,na,1
+BITUNM,Einstein-Stiftung Berlin,0,na,1
+ESB,acatech – Deutsche Akademie der Technikwissenschaften,0,na,1
+ADADT,Bayerische Akademie der Wissenschaften,0,na,1
+BADW,Vereinte Dienstleistungsgewerkschaft verdi,0,na,1
+VDV,Stadt Karlsruhe,0,na,1
+SKE,Technischen Universität Berlin,0,na,1
+TUB,Max-Planck-Institut,0,na,1
+MPI,Alcatel-Lucent Stiftung,0,na,1
+ALS,Johanna-Quandt-Stiftung,0,na,1
+JQS,BMW Stiftung Herbert Quandt,0,na,1
+BMWSHQ,Entrust Datacard,0,na,1
+ED,Südzucker AG,0,na,1
+SR,Lenkungskreis „Allianz Industrie 4.0 Baden-Württemberg“,0,na,1
+LAIBW,Baden-Württemberg International (bw-i),0,na,1
+BWI,VDMA (Verband Deutscher Maschinen- und Anlagenbau) Baden-Württemberg,0,na,1
+VDMABW,TUI Group,0,na,1
+TUIG,Heinrich-Böll-Stiftung,0,na,1
+HBS,Deutsch Evangelischer Kirchentag,0,na,1
+DEK,Dieter Schwarz Stiftung,0,na,1
+DSS,evalag Evaluationsagentur Baden-Württemberg,0,na,1
+EEBW,Pädagogische Hochschule Karlsruhe,0,na,1
+PHK,Technischen Universität München,0,na,1
+TUM,Initiative Erfurter Kreuz e.V.,0,na,1
+IEK,Thex Frauensache,0,na,1
+TF,Freiwilligen Feuerwehr Göppingen-Jebenhausen,0,na,1
+FFGJ,"Bundesverbandes Energiespeicher e. V., Berlin",0,na,1
+BEB,Welthungerhilfe,0,na,1
+W,Universität Ulm,0,na,1
+UU,Gerresheimer AG,0,na,1
+G,Expertenverbands ISPE,0,na,1
+EISPE,European Family Businesses ,0,na,1
+EFB,Henkel AG & Co. KGaA,0,na,1
+H,Deutschen Telekom AG,0,na,1
+DT,Robert Bosch GmbH,0,na,1
+RB,Deutschen Wissenschaftsrat,0,na,1
+DW,"LMT Leading Metalworking Technologies Group, Oberkochen",0,na,1
+LMTGO,Bundesvereinigung der Deutschen Arbeitgeberverbände,0,na,1
+BDDA,Europäischer Sozialfonds,0,na,1
+ES,Diversity der Südwestmetall,0,na,1
+DDS,Frauen in der Wirtschaft,0,na,1
+FIDW,Hochschule für Gestaltung Schwäbisch Gmünd,0,na,2
+HSFGSG,Hochschule für Gestaltung Karlsruhe,0,na,2
+HSFGK,Kunstakademie Karlsruhe,0,na,2
+KK,Internationale Hochschule Liebenzell,0,na,2
+IHSL,Pädagogische Hochschule Weingarten,0,na,2
+PHSW,Pädagogische Hochschule Freiburg,0,na,2
+PHSF,Pädagogische Hochschule Heidelberg,0,na,2
+PHSH,Pädagogische Hochschule Karlsruhe ,0,na,2
+PHSK,Pädagogische Hochschule Schwäbisch Gmünd,0,na,2
+PHSS,Pädagogische Hochschule Ludwigsburg,0,na,2
+PHSL,Pädagogischen Hochschule Thurgau/Schweiz,0,na,2
+PHSTS,Pädagogosche Hochschule Weingarten,0,na,2
+PHSW,Hochschule Ulm,0,na,2
+HSU,Hochschule Reutlingen,0,na,2
+HSR,Hochschule der Medien,0,na,2
+HSDM,Hochschule Pforzheim,0,na,2
+HSP,Akademie der Bildenden Künste Stuttgart,0,na,2
+AS,Hochschule für jüdische Studien Heidelberg,0,na,2
+HoScHe,Hochschule für Musik Karlsruhe,0,na,2
+HoScKa,Hochschule für Musik und Darstellende Kunst Mannheim,0,na,2
+HoScMa,Musikhochschule Freiburg,0,na,2
+MHF,Musikhochschule Stuttgart,0,na,2
+MHS,Hochschule Mannheim,0,na,2
+HSM,Karlsruher Institut für Technologie,0,na,2
+KIT,Hochschule Heilbronn,0,na,2
+HSH,Hochschule Esslingen,0,na,2
+HSE,Hochschule Biberach,0,na,2
+HSB,Hochschule Albstadt-Sigmaringen,0,na,2
+HSAS,Hochschule Aalen,0,na,2
+HSA,Hochschule Konstanz,0,na,2
+HSKZ,Hochschule Furtwangen,0,na,2
+HSF,Hochschule Karlsruhe,0,na,2
+HSK,Hochschule für Forstwirtschaft Rottenburg,0,na,2
+HSFR,Hochschule Offenburg,0,na,2
+HSO,Hochschule für Wirtschaft und Umwelt Nürtingen Geislingen,0,na,2
+HSWUNG,Hochschule für Technik Stuttgart,0,na,2
+HSTS,,,,
