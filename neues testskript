@@ -20,8 +20,12 @@ V(hochschulen)[male]$color = "deepskyblue"
 female <- V(hochschulen)[sex == "1"]
 V(hochschulen)[female]$color = "hotpink"
 
-rest <- V(hochschulen)[sex == "0"]
-V(hochschulen)[rest]$color = "lawngreen"
+org <- V(hochschulen)[type == "1"]
+V(hochschulen)[org]$color = "lawngreen"
+
+hs <- V(hochschulen)[type == "2"]
+V(hochschulen)[hs]$color = "khaki1"
+
 plot(hochschulen, vertex.label=NA)
 
 dyad_census(hochschulen)
@@ -37,3 +41,11 @@ E(hochschulen)$curved=.2
 ego(hochschulen)
 mrst <- make_ego_graph(hochschulen, order=2, mode="all")
 plot(mrst[[1]])
+
+
+
+
+
+
+
+
