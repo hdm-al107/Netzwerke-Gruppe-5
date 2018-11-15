@@ -1,8 +1,8 @@
-#Skript zum Einfügen in R
+#Skript zum EinfÃ¼gen in R
 library("igraph")
-el=read.csv("https://raw.githubusercontent.com/hdm-al107/Netzwerke-Gruppe-5/master/Hochschulr%C3%A4te_Edgelist_BEREINIGT.csv")
+el=read.csv("https://raw.githubusercontent.com/hdm-al107/Netzwerke-Gruppe-5/master/Hochschulr%C3%A4te_Edgelist_BEREINIGT_neu.csv")
 el
-#Nodelist einfügen
+#Nodelist einfÃ¼gen
 nodes=read.csv("https://raw.githubusercontent.com/hdm-al107/Netzwerke-Gruppe-5/master/Hochschulr%C3%A4te_Nodelist_BEREINIGT.csv")
 nodes
 # Umwnadlung der Listen in Matrixe
