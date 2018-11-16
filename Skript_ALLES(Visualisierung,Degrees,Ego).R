@@ -1,8 +1,9 @@
-#Skript zum Einfügen in R
+#####################################################################Skript zum EinfÃ¼gen in R
+
 library("igraph")
 el=read.csv("https://raw.githubusercontent.com/hdm-al107/Netzwerke-Gruppe-5/master/Hochschulr%C3%A4te_Edgelist_BEREINIGT_neu.csv")
 el
-#Nodelist einfügen
+#Nodelist einfÃ¼gen
 nodes=read.csv("https://raw.githubusercontent.com/hdm-al107/Netzwerke-Gruppe-5/master/Hochschulr%C3%A4te_Nodelist_BEREINIGT.csv")
 nodes
 # Umwnadlung der Listen in Matrixe
@@ -12,6 +13,9 @@ head(nodes)
 hties <-as.matrix(el)
 hochschulen <- graph_from_data_frame(d=hties, vertices=nodes,
                                      directed=T)
+
+######################################################################Visualisierung 
+
 plot(hochschulen)
 plot(hochschulen, edge.arrow.size=0.4, vertex.label=NA)
 plot(hochschulen, edge.arrow.size=0.4,
@@ -43,6 +47,8 @@ V(hochschulen)[organizations]$shape = "square"
 
 E(hochschulen)$arrow.size <- .2
 E(hochschulen)$curved=.2
+
+############################################################Degrees+Ego_Netzwerke PowerPlayer 
 
 degree(hochschulen)
 #Alle Knoten vom Type 0 mit Anzahl ihrer degrees
