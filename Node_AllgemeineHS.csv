@@ -1,0 +1,248 @@
+id,label,sex,birth,type,art
+HSFOVUFL,Hochschule fuer oeffentliche Verwaltung und Finanzen Ludwigsburg,0,na,2,2
+HSRW,Hochschule Ravensburg-Weingarten,0,na,2,2
+HSFPBW,Hochschule fuer Polizei Baden-Wuerttemberg,0,na,2,2
+HSFOVK,Hochschule fuer oeffentliche Verwaltung Kehl,0,na,2,2
+HSO,Hochschule Offenburg,0,na,2,2
+HSM,Hochschule Mannheim,0,na,2,2
+HSH,Hochschule Heilbronn,0,na,2,2
+HSE,Hochschule Esslingen,0,na,2,2
+HSB,Hochschule Biberach,0,na,2,2
+HSAS,Hochschule Albstadt-Sigmaringen,0,na,2,2
+HSA,Hochschule Aalen,0,na,2,2
+HSKZ,Hochschule Konstanz,0,na,2,2
+HSF,Hochschule Furtwangen,0,na,2,2
+HSU,Hochschule Ulm,0,na,2,2
+HSR,Hochschule Reutlingen,0,na,2,2
+HSDM,Hochschule der Medien,0,na,2,2
+HSP,Hochschule Pforzheim,0,na,2,2
+WR,Wolfgang Reimer,2,1956,0,0
+GHB,Gudrun Heute-Bluhm,1,1957,0,0
+OA,Otto Arens,2,na,0,0
+LE,Lessli Eismann,1,1959,0,0
+TE,Thomas Eigenthaler,2,1958,0,0
+BG,Buendnis 90/Die Gruenen,0,na,1,0
+LFWB,Land Frauenverband Wuerttemberg-Baden e.V.,0,na,1,0
+Thu,Thuega,0,na,1,0
+Ba,Badenova GmbH und Co. KG,0,na,1,0
+DIFU,Deutsches Institut fuer Urbanistik,0,na,1,0
+DS,Deutscher Staedtetag,0,na,1,0
+KrLo,Kreistag Loerrach,0,na,1,0
+CDU,Christlich Demokratische Union Deutschlands,0,na,1,0
+STBW,Staedtetag Baden-Wuerttemberg,0,na,1,0
+LFBUV,Landesamt fuer Besoldung und Versorgung,0,na,1,0
+DSG,Deutsche Steuer-Gewerkschaft,0,na,1,0
+DeBe,Deutscher Beamtenbund,0,na,1,0
+UDEF,Union des Europaeischen Finanzpersonals,0,na,1,0
+Buw,Bundeswehr,0,na,1,0
+WGPR,Wolfgang Pfeiffer,2,na,0,0
+CBF,Carolin Bischoff,1,na,0,0
+JWL,Johannes Weindel,2,na,0,0
+AZN,Angelika Zimmermann,1,na,0,0
+UD,Ulrich Dohle,2,1953,0,0
+AFF,Allianz fuer Fachkraefte,0,na,1,0
+PJIB,Perspektive Jugend im Bodenseekreis,0,na,1,0
+BDDLR,Bundesverband der Deutschen Luft- und Raumfahrtindustrie,0,na,1,0
+JIDBM,Jugend in den Beruf Markdorf ,0,na,1,0
+MaLe,Markdorfer Leichtathleten,0,na,1,0
+RC,Rotary Club,0,na,1,0
+DMVF,Dietrich Moser von Filseck,2,1956,0,0
+DFW,Detlef Werner,2,1960,0,0
+HRP,Hartmut Roempp,2,na,0,0
+RK,Rupert Kubon,2,1957,0,0
+RE,Roland Eisele,2,1958,0,0
+GFN,Guenther Freisleben,2,1957,0,0
+TMR,Thomas Muerder,2,1957,0,0
+UV,Udo Vogel,2,1964,0,0
+RM,Ralf Michelfelder,2,1960,0,0
+BBE,Beate Bube,1,1964,0,0
+HJK,Hans-Juergen Kirstein,2,na,0,0
+SMR,Steffen Mayer,2,1979,0,0
+RKR,Ralf Kusterer,2,1962,0,0
+GK,Gerhard Klotter,2,1955,0,0
+SPD,Sozialdemokratische Partei Deutschlands,0,na,1,0
+GDPLBW,Gewerkschaft der Polizei Landesbezirk Baden-Wuerttemberg,0,na,1,0
+BDKBW,Bund Deutscher Kriminalbeamter Baden Wuerttemberg,0,na,1,0
+BUT,Beamtenbund und Tarifunion,0,na,1,0
+BBW,Bereitschaftspolizeipraesidium Baden-Wuerttemberg,0,na,1,0
+DP,Deutsche Polizeigewerkschaft,0,na,1,0
+PKDLUDB,Polizeiliche Kriminalpraevention der Laender und des Bundes,0,na,1,0
+AIS,Arbeitskreis Innere Sicherheit,0,na,1,0
+BSR,Baerbel Schaefer ,1,1958,0,0
+ET,Eberhard Trumpp ,2,1952,0,0
+SB,Stefanie Buerkle ,1,1969,0,0
+JO,Julian Osswald ,2,1965,0,0
+BFAN,Bundesagentur fuer Arbeit Nuernberg,0,na,1,0
+SRHKLS,SRH Kliniken Landkreis Sigmaringen GmbH,0,na,1,0
+VNAD,Verkehrsverbund Neckar-Alb-Donau GmbH ,0,na,1,0
+ObEl,Oberschwaebische Elektrizitaetswerke,0,na,1,0
+NOD,Naturparkvereins Obere Donau,0,na,1,0
+HL,Hohenzollerischen Landesbahn AG ,0,na,1,0
+GOFGUK,Gesellschaft Oberschwaben fuer Geschichte und Kultur,0,na,1,0
+EBW,Energie Baden-Wuerttemberg AG,0,na,1,0
+Sp,Sparkasse ,0,na,1,0
+VKU,Verbandes kommunaler Unternehmen,0,na,1,0
+FBW,Forstkammer Baden-Wuerttemberg,0,na,1,0
+BiFr,Bioenergie Freudenstadt GmbH,0,na,1,0
+KLF,Kliniken Landkreis Freudenstadt GmbH,0,na,1,0
+ScMu,Schwarzwald Musikfestival GmbH,0,na,1,0
+WKKSF,Wasserversorgung Kleine Kinzig Stadtwerke Freudenstadt GmbH & Co. KG,0,na,1,0
+UK,Ulrich Kleine,2,1959,0,0
+KE,Klaus Erdich ,2,na,0,0
+NO,Nicola Osypka,1,na,0,0
+MR,Marc Renner ,2,1957,0,0
+BSP,Brigitta Schrempp,1,1965,0,0
+TRT,TriRhenaTech,0,na,1,0
+FSF,Friesenheimer Schul-Foerderverein,0,na,1,0
+BEM,Buerger-Energiegenossenschaft E-Werk Mittelbaden,0,na,1,0
+EE,Eva Eckkrammer,1,1968,0,0
+UF,Ulrike Freundlieb,1,1953,0,0
+TP,Thomas Peuntner,2,na,0,0
+MSR,Martin Schumacher,2,1960,0,0
+DFHS,Deutsch-Franzoesischen Hochschule,0,na,1,0
+IFM,Institut francais Mannheim,0,na,1,0
+StMa,Stadt Mannheim,0,na,1,0
+DFG,Deutsche Forschungsgemeinschaft,0,na,1,0
+EB,Editorial Board,0,na,1,0
+RIDLI,Revista Internacional de Lingueistica Iberorromanica,0,na,1,0
+DAA,Deutscher Akademischer Austauschdienst,0,na,1,0
+SDDV,Studienstiftung des Deutschen Volkes,0,na,1,0
+FES,Friedrich-Ebert-Stiftung,0,na,1,0
+LCI,Lions Clubs International,0,na,1,0
+ArMa,Arbeitsgericht Mannheim,0,na,1,0
+VDPMUE,Verband der Pfaelzischen Metall- und Elektroindustrie e. V.,0,na,1,0
+HB,Hanna Binder,1,na,0,0
+EDG,Elke Doering,1,na,0,0
+WH,Wolfgang Hansch,2,na,0,0
+SHT,Sabine Haupt,1,na,0,0
+AR,Anke Rigbers,1,1964,0,0
+PT,Peter Tropschuh,2,1958,0,0
+EMA,Eva-Maria Armbruster,1,1959,0,0
+DBK,Dietrich Birk,2,1967,0,0
+SLZ,Sabine Lutz,1,na,0,0
+CRH,Christian Rauch,2,na,0,0
+TS,Thomas Speidel,2,na,0,0
+HS,Heidi Stock,1,na,0,0
+VDV,Vereinte Dienstleistungsgewerkschaft verdi,0,na,1,0
+IH,Industrie- und Handelskammer ,0,na,1,0
+DSS,Dieter Schwarz Stiftung,0,na,1,0
+EvBa,Evaluationsagentur Baden-Wuerttemberg,0,na,1,0
+TUM,Technischen Universitaet Muenchen,0,na,1,0
+FFGJ,Freiwilligen Feuerwehr Goeppingen-Jebenhausen,0,na,1,0
+LAIBW,Lenkungskreis Allianz Industrie 4.0 Baden-Wuerttemberg,0,na,1,0
+VDMABW,Verband Deutscher Maschinen- und Anlagenbau Baden-Wuerttemberg,0,na,1,0
+BEB,Bundesverbandes Energiespeicher e. V. Berlin,0,na,1,0
+ES,Europaeischer Sozialfonds,0,na,1,0
+DDS,Diversity der Suedwestmetall,0,na,1,0
+FIDW,Frauen in der Wirtschaft,0,na,1,0
+DAS,Dorothee Ambrosius,1,na,0,0
+MBR,Monika Beltinger,1,na,0,0
+WGDN,Wolfgang Dorn,2,na,0,0
+GL,Gerd Leipold,2,1951,0,0
+SM,Steffen Mayer,2,na,0,0
+WM,Wolfram Muench,2,na,0,0
+We,Welthungerhilfe,0,na,1,0
+UJV,Udo J. Vetter,2,na,0,0
+TL,Thomas Lindner,2,na,0,0
+UMR,Ursula Maier,1,na,0,0
+HMR,Hermann Mettler,2,na,0,0
+SESR,Sophie Schwoerer,1,na,0,0
+UU,Universitaet Ulm,0,na,1,0
+G,Gerresheimer AG,0,na,1,0
+EISPE,Expertenverbands ISPE,0,na,1,0
+EFB,European Family Businesses ,0,na,1,0
+MKE,Michael Kaschke,2,1957,0,0
+FE,Franziska Eichel,1,na,0,0
+GG,Gerhard Grimminger,2,1941,0,0
+JK,Jochen Kress,2,1975,0,0
+SKNN,Stefan Kampmann,2,1963,0,0
+MWR,Michael Weber,2,1959,0,0
+H,Henkel AG und Co. KGaA,0,na,1,0
+DT,Deutschen Telekom AG,0,na,1,0
+RB,Robert Bosch GmbH,0,na,1,0
+DW,Deutschen Wissenschaftsrat,0,na,1,0
+LMTGO,"LMT Leading Metalworking Technologies Group, Oberkochen",0,na,1,0
+SKT,Susanne Kunschert,1,1970,0,0
+AL,Andrea Leu,1,na,0,0
+MDR,Marion Diener,1,na,0,0
+BEBN,Barbara Ettinger-Brinckmann,1,1950,0,0
+TRE,Thomas Regele,2,na,0,0
+Su,Suedzucker AG,0,na,1,0
+BaWuIn,Baden-Wuerttemberg International,0,na,1,0
+BDS,Bauen digital Schweiz,0,na,1,0
+EnSt,Enterprise Stiftung,0,na,1,0
+KaRo,Kantonsschule Romanshorn,0,na,1,0
+TSFWF,Thurgauische Stiftung fuer Wissenschaft und Forschung,0,na,1,0
+AH,Architektenkammer Hessen,0,na,1,0
+BDA,Bund Deutscher Architekten,0,na,1,0
+KAKIK,Kasseler Architekturzentrum im Kulturbahnhof,0,na,1,0
+B,Bundesarchitektenkammer e.V.,0,na,1,0
+PB,planen bauen 4.0 ,0,na,1,0
+DIFN,Deutsches Institut fuer Normung,0,na,1,0
+BFB,Bundesverband freier Berufe,0,na,1,0
+BuBa,Bundesstiftung Baukultur,0,na,1,0
+DSD,Deutsche Stiftung Denkmalschutz,0,na,1,0
+IFS,Institut fuer Stadtbaukunst,0,na,1,0
+EF,Erika Faust,1,na,0,0
+ALM,Alexandra Laufer-Mueller,1,1971,0,0
+MRM,Michelle Rowbotham,1,na,0,0
+DSK,Dirk Schallock,2,na,0,0
+JSZ,Joachim Schulz,2,na,0,0
+MZ,Michele Zimmermann,1,na,0,0
+IEK,Initiative Erfurter Kreuz e.V.,0,na,1,0
+TF,Thex Frauensache,0,na,1,0
+JSR,Jan Stefan Roell,2,1954,0,0
+MB,Martina Burgetsmeier,1,1967,0,0
+CB,Christine Brach,1,na,0,0
+HM,Harald Molle,2,na,0,0
+UKU,Universitaetsklinikums Ulm,0,na,1,0
+ISUNU,Internationale Schule Ulm/Neu-Ulm,0,na,1,0
+AS,Arbeitgeberverband Suedwestmetall,0,na,1,0
+EO,Entrepreneurs Organization,0,na,1,0
+VDEEI,Verband der Elektrotechnik Elektronik Informationstechnik e. V.,0,na,1,0
+MFWFUKBW,"Ministerium fuer Wissenschaft, Forschung und Kunst Baden-Wuerttemberg",0,na,1,0
+UniFre,Universitaet Freiburg ,0,na,1,0
+LFS,Landesinstitut fuer Schulentwicklung ,0,na,1,0
+UM,Universitaetsmedizin Mannheim,0,na,1,0
+CK,Christoph Kuebel,2,1959,0,0
+KW,Kerstin Wagner,1,na,0,0
+WB,Wilhelm Bauer,2,na,0,0
+COE,Christian O. Erbe,2,1961,0,0
+AG,Alfred Goll,2,1956,0,0
+MK,Martina Koederitz,1,1964,0,0
+ML,Mark Langer,2,1968,0,0
+SBB,S-Bahn Berlin,0,na,1,0
+DB,Deutsche Bahn,0,na,1,0
+GFIF,Gesellschaft fuer immobilienwirtschaftliche Forschung e.V.,0,na,1,0
+WIUB,Wirtschaftsverbands industrieller Unternehmen Baden e.V.,0,na,1,0
+GFA,Gesellschaft fuer Arbeitswissenschaft ,0,na,1,0
+DGFNB,Deutsche Gesellschaft fuer Nachhaltiges Bauen e. V.,0,na,1,0
+DNB,Deutsches Netzwerk Buero e. V.,0,na,1,0
+EC,European Commission,0,na,1,0
+BS,Bertelsmann Stiftung,0,na,1,0
+IFFPR,International Foundation for Production Research,0,na,1,0
+IGM,IG Metall ,0,na,1,0
+AIBW,Allianz Industrie 4.0 des Landes Baden-Wuerttemberg ,0,na,1,0
+RMB,Redaktionsbeirat Mensch & Buero,0,na,1,0
+RIDW,Rationalisierungs- und Innovationszentrum der Deutschen Wirtschaft e. V. ,0,na,1,0
+VDI,Verein Deutscher Ingenieure e. V.,0,na,1,0
+WGAB,Wissenschaftliche Gesellschaft fuer Arbeits- und Betriebsorganisation,0,na,1,0
+FETZEE,Fachverband Elektromedizinische Technik des Zentralverbandes der Elektrotechnik- und Elektronikindustrie e.V.,0,na,1,0
+MES,Verband der Metall- und Elektroindustrie des Saarlandes e.V.,0,na,1,0
+DHBW,Duale Hochschule Baden-Wuerttemberg ,0,na,1,0
+REW,REW,0,na,1,0
+BWI,Bird Watch Ireland GmbH,0,na,1,0
+JR,Juergen Rautert ,2,na,0,0
+SMH,Stephanie Mair-Huydts,1,1963,0,0
+IF,Ingrid Felgentraeger,1,1952,0,0
+AB,Andreas Bieswanger,2,na,0,0
+SPM,siggset Print und Media AG,0,na,1,0
+AkSt,Akademie der Bildenden Kuenste Stuttgart,0,na,2,1
+FKS,Foerderverein Kinderfreundliches Stuttgart e.V.,0,na,1,0
+GFKN,Gesellschaft fuer Konsumforschung Nuernberg e. V.,0,na,1,0
+SS,Stefanie Schneider,1,1961,0,0
+GF,Gerhard Floeck,2,na,0,0
+SNSL,Stephan Scholl,2,1957,0,0
+SWR,Sued-West-Rundfunk,0,na,1,0
+FFT,Franzoesische Filmtage Tuebingen-Stuttgart,0,na,1,0
+W,Witzenmann GmbH,0,na,1,0
