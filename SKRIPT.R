@@ -42,7 +42,6 @@ V(hochschulen)[organizations]$shape = "square"
 #Die Kanten sollen geschwungen sein
 E(hochschulen)$curved=.2
 
-
 #Entzerren 
 coords <- layout_with_kk(hochschulen)*0.2
 
@@ -60,6 +59,8 @@ plot(hochschulen,
      ylim=c(-4,3), xlim=c(-4,3)) # Drei Netzwerke befinden sich in keinerlei Kontakt mit dem Rest, deshalb werden sie entfernt
 
 ### [Einpflegen des verkleinerten Skripts]
+
+############################################################################################################
 
 ###Power Player 
 
@@ -157,6 +158,7 @@ plot(GHB[[1]],
      vertex.label.color="black",
      main="Gudrun Heute-Bluhm",)
 
+############################################################################################################
 
 ###Power Organisationen 
 
