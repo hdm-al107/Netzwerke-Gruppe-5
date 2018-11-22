@@ -1,11 +1,11 @@
 library("igraph")
 
-###Listen in R einfügen 
+###Listen in R einfÃ¼gen 
 
-#Edgelist einfügen
+#Edgelist einfÃ¼gen
 el=read.csv("https://raw.githubusercontent.com/hdm-al107/Netzwerke-Gruppe-5/master/Edge.csv")
 
-#Nodelist einfügen
+#Nodelist einfÃ¼gen
 nodes=read.csv("https://raw.githubusercontent.com/hdm-al107/Netzwerke-Gruppe-5/master/Node.csv")
 
 # Umwnadlung der Listen in Matrixe
@@ -22,7 +22,7 @@ hochschulen <- graph_from_data_frame(d=hties, vertices=nodes,
 #Hochschulen sollen gelb angeigt werden 
 V(hochschulen)$color = "yellow"
 
-#Männer sollen blau angezeigt werden 
+#MÃ¤nner sollen blau angezeigt werden 
 male <- V(hochschulen)[sex == "2"]
 V(hochschulen)[male]$color = "deepskyblue"
 
@@ -30,7 +30,7 @@ V(hochschulen)[male]$color = "deepskyblue"
 female <- V(hochschulen)[sex == "1"]
 V(hochschulen)[female]$color = "hotpink"
 
-#Organisationen sollen grün angezeigt werden 
+#Organisationen sollen grÃ¼n angezeigt werden 
 org <- V(hochschulen)[type == "1"]
 V(hochschulen)[org]$color = "lawngreen"
 
@@ -70,7 +70,7 @@ degree(hochschulen)
 d <- degree(hochschulen)[V(hochschulen)$type=="0"]
 d
 
-#Anzeige des Knotens mit Type 0 (Person) mit der höchsten Anzahl an degrees 
+#Anzeige des Knotens mit Type 0 (Person) mit der hÃ¶chsten Anzahl an degrees 
 V(hochschulen)$label[V(hochschulen)$type=="0"][degree(hochschulen)==max(degree(hochschulen))]
 
 #Erstellung des Ego-Netzwerks unserer 6 Power Player 
@@ -236,7 +236,7 @@ plot(h_fem,
      vertex.size=9,
      main="Frauen",)
 
-##Männer
+##MÃ¤nner
 h_male <- delete_vertices(hochschulen, V(hochschulen)[sex == "1", type == "1"])
 h_male
 plot(h_male,
@@ -245,13 +245,15 @@ plot(h_male,
      vertex.frame.color="transparent", 
      edge.color="grey80",
      vertex.size=9,
-     main="Männer",)
+     main="MÃ¤nner",)
+
+############################################################################################################
 
 ###Verschiedene Hochschularten betrachten 
 
 ##Allgemeine Hochschulen 
 
-#Listen in R einfügen 
+#Listen in R einfÃ¼gen 
 
 library("igraph")
 
@@ -292,7 +294,7 @@ plot(AllgemeineHS ,
 
 ##Technische Hochschulen
 
-#Listen in R einfügen
+#Listen in R einfÃ¼gen
 
 library("igraph")
 
@@ -306,7 +308,7 @@ hties <-as.matrix(el)
 TechnischeHS <- graph_from_data_frame(d=hties, vertices=nodes,
                                       directed=F)
 
-###Visualisierung
+#Visualisierung
 
 V(TechnischeHS)$color = "yellow"
 male <- V(TechnischeHS)[sex == "2"]
@@ -333,9 +335,9 @@ plot(TechnischeHS,
      ylim=c(-9,3), xlim=c(-3,3))
 
 
-##Pädagogische Hochschulen
+##PÃ¤dagogische Hochschulen
 
-#Listen in R einfügen
+#Listen in R einfÃ¼gen
 
 library("igraph")
 
@@ -349,7 +351,7 @@ hties <-as.matrix(el)
 PaedagogischeHS <- graph_from_data_frame(d=hties, vertices=nodes,
                                       directed=F)
 
-###Visualisierung
+#Visualisierung
 
 V(PaedagogischeHS)$color = "yellow"
 male <- V(PaedagogischeHS)[sex == "2"]
@@ -372,12 +374,12 @@ plot(PaedagogischeHS,
      vertex.label.cex=.55,
      vertex.size=18,
      vertex.label.color="black",
-     main="Pädagogische Hochschulen",
+     main="PÃ¤dagogische Hochschulen",
      ylim=c(-3,3), xlim=c(-2,3))
 
 ##Kunst Hochschulen
 
-#Listen in R einfügen
+#Listen in R einfÃ¼gen
 
 library("igraph")
 
@@ -391,7 +393,7 @@ hties <-as.matrix(el)
 KunstHS <- graph_from_data_frame(d=hties, vertices=nodes,
                                          directed=F)
 
-###Visualisierung
+#Visualisierung
 
 V(KunstHS)$color = "yellow"
 male <- V(KunstHS)[sex == "2"]
