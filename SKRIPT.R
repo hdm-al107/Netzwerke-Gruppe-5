@@ -277,7 +277,7 @@ V(AllgemeineHS )[male]$color = "deepskyblue"
 female <- V(AllgemeineHS )[sex == "1"]
 V(AllgemeineHS )[female]$color = "hotpink"
 org <- V(AllgemeineHS )[type == "1"]
-V(AllgemeineHS )[org]$color = "lawngreen"
+V(AllgemeineHS )[organisations]$color = "lawngreen"
 V(AllgemeineHS )$shape = "circle"
 organizations <- V(AllgemeineHS )[type == "1"]
 V(AllgemeineHS )[organizations]$shape = "square"
@@ -318,7 +318,7 @@ V(TechnischeHS)[male]$color = "deepskyblue"
 female <- V(TechnischeHS)[sex == "1"]
 V(TechnischeHS)[female]$color = "hotpink"
 org <- V(TechnischeHS)[type == "1"]
-V(TechnischeHS)[org]$color = "lawngreen"
+V(TechnischeHS)[organisations]$color = "lawngreen"
 V(TechnischeHS)$shape = "circle"
 organizations <- V(TechnischeHS)[type == "1"]
 V(TechnischeHS)[organizations]$shape = "square"
@@ -361,7 +361,7 @@ V(PaedagogischeHS)[male]$color = "deepskyblue"
 female <- V(PaedagogischeHS)[sex == "1"]
 V(PaedagogischeHS)[female]$color = "hotpink"
 org <- V(PaedagogischeHS)[type == "1"]
-V(PaedagogischeHS)[org]$color = "lawngreen"
+V(PaedagogischeHS)[organisations]$color = "lawngreen"
 V(PaedagogischeHS)$shape = "circle"
 organizations <- V(PaedagogischeHS)[type == "1"]
 V(PaedagogischeHS)[organizations]$shape = "square"
@@ -403,7 +403,7 @@ V(KunstHS)[male]$color = "deepskyblue"
 female <- V(KunstHS)[sex == "1"]
 V(KunstHS)[female]$color = "hotpink"
 org <- V(KunstHS)[type == "1"]
-V(KunstHS)[org]$color = "lawngreen"
+V(KunstHS)[organizations]$color = "lawngreen"
 V(KunstHS)$shape = "circle"
 organizations <- V(KunstHS)[type == "1"]
 V(KunstHS)[organizations]$shape = "square"
